@@ -1,18 +1,12 @@
 **California Poets in Schools**
-169 Fall 2016
+UC Berkeley
+169 Summer 2017
 
 *CodeClimate Badge*
 [![Code Climate](https://codeclimate.com/github/jazhao1/CApoets/badges/gpa.svg)](https://codeclimate.com/github/jazhao1/CApoets)
 
 *Travis CI Badge*
 [![Build Status](https://travis-ci.org/jazhao1/CApoets.svg?branch=master)](https://travis-ci.org/jazhao1/CApoets)
-
-
-*Test Coverage Badge*
-[![Test Coverage](https://codeclimate.com/github/jazhao1/CApoets/badges/coverage.svg)](https://codeclimate.com/github/jazhao1/CApoets/coverage)
-
-*Heroku Link*
-http://capoets.herokuapp.com
 
 *Heroku Development Link Summer 2017*
 https://cpits.herokuapp.com/
