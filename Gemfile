@@ -1,4 +1,4 @@
-source 'https://rubygems.org'
+source 'http://rubygems.org'
 
 # ruby '2.3.0' #Ruby version we're running
 group :development, :test do
@@ -72,7 +72,7 @@ gem 'cancancan'
 gem 'rails_admin_rollincode', '~> 1.0'
 
 gem 'acts-as-taggable-on'
-source 'https://rails-assets.org' do
+source 'http://rails-assets.org' do
   gem 'rails-assets-chosen'
 end
 gem 'rails3-jquery-autocomplete'
