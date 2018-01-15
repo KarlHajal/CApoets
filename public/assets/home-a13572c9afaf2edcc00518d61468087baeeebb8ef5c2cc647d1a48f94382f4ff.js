@@ -1,0 +1,1 @@
+$(document).ready(function(){$(".poems_box").click(function(){var n="/poems/",o=String(this.id),c=parseInt(o.replace(/[^0-9\.]/g,""),10),i=n.concat(c);window.location.assign(i)})});

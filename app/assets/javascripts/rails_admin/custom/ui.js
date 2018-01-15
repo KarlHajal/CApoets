@@ -22,14 +22,14 @@ $(function () {
  $('.sidebar-nav li').each(function (index, item) {
  if ($(item).hasClass('dropdown-header')) {
  lvl_1 = count++;
- array_menu[lvl_1] = []
+ array_menu[lvl_1] = [];
  } else {
  $(item).addClass('sub-menu sub-menu-' + lvl_1);
  }
  });
 
  for (var i = 0; i <= array_menu.length; i++) {
- $('.sub-menu-' + i).wrapAll("<div class="sub-menu-container"></div>");
+ $('.sub-menu-' + i).wrapAll("<div class=sub-menu-container></div>");
  }
 
  $('.sub-menu-container').hide();
