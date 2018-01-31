@@ -11,7 +11,7 @@ CS 169 Summer 17 Iteration
 http://capoets.herokuapp.com
 
 *Heroku Development Link Summer 2017*
-https://capits.herokuapp.com
+https://calpoets.herokuapp.com
 
 *Pivotal Tracker Link*
 https://www.pivotaltracker.com/n/projects/2071017
